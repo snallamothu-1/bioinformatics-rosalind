@@ -1,0 +1,1 @@
+AI assistance, specifically from Gemini, was used to help with several coding tasks. The notebook explicitly instructs the user to "Ask Gemini" to get examples for understanding the assignment operator, to see examples of different data types, and to learn how to insert an item into a list.
